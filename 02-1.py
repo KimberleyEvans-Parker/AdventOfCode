@@ -1,4 +1,4 @@
-with open("02-1-input.txt", "r") as f:
+with open("02-input.txt", "r") as f:
     policies = f.readlines()
 
 count = 0

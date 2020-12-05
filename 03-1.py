@@ -1,4 +1,4 @@
-with open("03-1-input.txt", "r") as f:
+with open("03-input.txt", "r") as f:
     rows = f.readlines()
 
 total = 1
